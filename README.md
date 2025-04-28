@@ -11,3 +11,7 @@
    git commit -m "Test commit" 
 6) Запушили на удаленный репозиторий:
    git push origin main
+
+1.Клонировала репозиторий: git clone https://github.com/An34067/lesson.git 
+2.Написала команду:npx create-strapi-app test --quickstart 
+3.Зарегистрировалась в strapi.
